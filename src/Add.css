@@ -1,0 +1,26 @@
+/* .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    -webkit-text-decoration-line: line-through; 
+    text-decoration-line: line-through; 
+ }
+ .cursor-pointer{
+     cursor: pointer;
+ }
+ .width-100{
+     width:calc(100% - 30px);
+     padding: 0px 15px;
+ }
+.d-flex {
+    display: flex;
+}
+.width-50{
+    width: 50%;
+}
+  */
+.error{
+    color: red;
+}
